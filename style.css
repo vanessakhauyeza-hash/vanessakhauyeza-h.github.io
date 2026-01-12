@@ -1,0 +1,84 @@
+/* Reset default browser spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page background + font */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 0 20px;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 40px 0;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Navigation bar */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+/* Main section */
+main {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 14px;
+}
+/* Section styling */
+section {
+    margin-top: 30px;
+    padding: 15px;
+}
+
+#nutrition, #projects {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Inputs and buttons for tools */
+input {
+    padding: 5px;
+    margin-top: 5px;
+}
+button {
+    padding: 6px 14px;
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+}
+button:hover {
+    opacity: 0.8;
+}
