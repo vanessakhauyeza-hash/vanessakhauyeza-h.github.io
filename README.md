@@ -1,4 +1,4 @@
-# Hi, I'm Vanessa Khauyeza 👋
+# Hi, I'm VANESSA KHAUYEZA 👋
 
 I'm an MSc Computer Science student with a background in Food Security and Nutrition. I am interested in using technology, data and digital solutions to address challenges in healthcare and nutrition.
 
