@@ -1,8 +1,8 @@
-# Hi, I'm VANESSA KHAUYEZA 👋
+ ## VANESSA KHAUYEZA 👋
 
 I'm an MSc Computer Science student with a background in Food Security and Nutrition. I am interested in using technology, data and digital solutions to address challenges in healthcare and nutrition.
 
-## About Me
+## ABOUT ME
 
 * 🎓 MSc Computer Science student
 * 🥗 BSc Food Security and Nutrition
@@ -11,9 +11,9 @@ I'm an MSc Computer Science student with a background in Food Security and Nutri
 * 🏥 Interested in Digital Health and Health Data
 * 🌱 Currently building projects that combine technology, health and nutrition
 
-## Technical Skills
+## TECHNICAL SKILLS
 
-**Programming & Web Development**
+**PROGRAMMING AND WEB DEVELOPMENT**
 
 * HTML
 * CSS
@@ -21,33 +21,33 @@ I'm an MSc Computer Science student with a background in Food Security and Nutri
 * PHP
 * Python
 
-**Data & Databases**
+**DATA AND DATABASE**
 
 * SQL
 * Data Analysis
 * Database Management
 
-## Featured Projects
+## FEATURED PROJECTS
 
-### 🥗 Nutrition Assessment Web App
+### 🥗 NUTRITION ASSESSMENT WEBSITE
 
 A web-based nutrition assessment project combining my background in nutrition with my developing software development skills.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 📊 Nutrition Data Analysis
+### 📊 NUTRITION DATA ANALYSIS 
 
 A Python-based project exploring nutrition-related data and developing my skills in data analysis.
 
 **Technologies:** Python
 
-### 🧮 Nutrition BMI Calculator
+### 🧮 NUTRITION BMI CALCULATOR
 
 A simple Python project for calculating BMI and exploring basic health-related programming.
 
 **Technologies:** Python
 
-## What I'm Currently Learning
+## WHAT I AM CURRENTLY LEARNING
 
 * Software development
 * Python
@@ -56,7 +56,7 @@ A simple Python project for calculating BMI and exploring basic health-related p
 * Digital Health
 * Health Data
 
-## My Goal
+## MY GOAL
 
 I want to develop technology and data skills that can contribute to practical solutions in healthcare, nutrition and digital health.
 
