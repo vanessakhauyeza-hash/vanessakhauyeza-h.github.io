@@ -1,23 +1,65 @@
-# Nutrition Assessment Web App
+# Hi, I'm Vanessa Khauyeza 👋
 
-This is a simple web-based nutrition assessment project that I built as part of my transition into software development.
+I'm an MSc Computer Science student with a background in Food Security and Nutrition. I am interested in using technology, data and digital solutions to address challenges in healthcare and nutrition.
 
-The goal of the project is to demonstrate how technology can be used to support nutrition awareness and basic health assessment.
+## About Me
 
-## Features
-- Simple interactive web interface
-- JavaScript functionality for user interaction
-- Clean UI using HTML and CSS
+* 🎓 MSc Computer Science student
+* 🥗 BSc Food Security and Nutrition
+* 💻 Interested in software development, web technologies and databases
+* 📊 Developing skills in Python and data analysis
+* 🏥 Interested in Digital Health and Health Data
+* 🌱 Currently building projects that combine technology, health and nutrition
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+## Technical Skills
 
-## Purpose
-This project reflects my effort to combine my background in Nutrition with my current studies in Computer Science. I am interested in building digital tools that support health and nutrition solutions.
+**Programming & Web Development**
 
-## Future Improvements
-- Add BMI calculation
-- Add nutrition recommendations
-- Connect to a database for user tracking
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Python
+
+**Data & Databases**
+
+* SQL
+* Data Analysis
+* Database Management
+
+## Featured Projects
+
+### 🥗 Nutrition Assessment Web App
+
+A web-based nutrition assessment project combining my background in nutrition with my developing software development skills.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 📊 Nutrition Data Analysis
+
+A Python-based project exploring nutrition-related data and developing my skills in data analysis.
+
+**Technologies:** Python
+
+### 🧮 Nutrition BMI Calculator
+
+A simple Python project for calculating BMI and exploring basic health-related programming.
+
+**Technologies:** Python
+
+## What I'm Currently Learning
+
+* Software development
+* Python
+* Databases and SQL
+* Data analysis
+* Digital Health
+* Health Data
+
+## My Goal
+
+I want to develop technology and data skills that can contribute to practical solutions in healthcare, nutrition and digital health.
+
+---
+
+📫 **Connect with me on LinkedIn:** [Vanessa Khauyeza](https://www.linkedin.com/in/vanessa-khauyeza-750393242/)
